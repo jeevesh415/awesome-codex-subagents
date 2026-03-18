@@ -4,7 +4,7 @@
 <br />
 
 <div align="center">
-    <strong>The awesome collection of Codex subagents.</strong>
+    <strong>The awesome collection of 136+ Codex subagents across 10 categories.</strong>
     <br />
     <br />
 </div>
@@ -13,10 +13,7 @@
 <div align="center">
     
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<a href="https://github.com/VoltAgent/voltagent">
-  <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
-</a> 
-![Subagent Count](https://img.shields.io/badge/subagents-135-blue?style=flat-square)
+![Subagent Count](https://img.shields.io/badge/subagents-136-blue?style=flat-square)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-codex-subagents?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-codex-subagents)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 </div>
@@ -24,10 +21,7 @@
 
 # Awesome Codex Subagents
 
-This repository serves as the definitive collection of Codex subagents, specialized AI assistants designed for specific development tasks. Written specifically for Codex and aligned with the official docs:
-
-- [Codex Subagents](https://developers.openai.com/codex/subagents)
-- [Codex Subagents Concepts](https://developers.openai.com/codex/concepts/subagents)
+This repository serves as the definitive collection of [Codex Subagents](https://developers.openai.com/codex/subagents), specialized AI assistants designed for specific development tasks. Written specifically for Codex and aligned with the official docs.
 
 ## Installation
 
